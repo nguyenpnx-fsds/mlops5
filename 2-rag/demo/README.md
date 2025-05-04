@@ -12,6 +12,8 @@ source .venv/bin/activate && \
 uv sync --active
 ```
 
+You need to initialize a OpenAI API Key and fill it to a file named `.env` with same format to file `sample.env`
+
 
 ## To run the basic RAG pipeline
 
